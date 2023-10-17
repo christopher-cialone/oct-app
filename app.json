@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "oct-app",
+    "slug": "oct-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "oct-app"
+}
